@@ -42,5 +42,53 @@
     ],
     "answer": 2,
     "topic": "Algorithms"
+  },
+  {
+    "question": "What is the PRIMARY use of a change schedule?",
+    "options": [
+      "To support 'incident management' and improvement planning",
+      "To manage emergency changes",
+      "To plan changes and help avoid conflicts",
+      "To manage standard changes"
+    ],
+    "answer": 2,
+    "topic": "ITIL",
+    "reasoning": "\n                    While it can be used after deploying a change, this is not the main use of the change schedule. \"The change schedule is used to help plan changes, assist in communication, avoid conflicts, and assign resources. It can also be used after changes have been deployed to provide information needed for incident management, problem management, and improvement planning.\"\n                    the correct answer was:\n\n                    To plan changes and help avoid conflicts\n                    "
+  },
+  {
+    "question": "Which is the BEST example of an emergency change?",
+    "options": [
+      "The implementation of a planned new release of a software application",
+      "A low-risk computer upgrade implemented as a service request",
+      "The implementation of a security patch to a critical software application",
+      "A scheduled major hardware and software implementation"
+    ],
+    "answer": 2,
+    "topic": "ITIL",
+    "reasoning": "\n                    \n                    \n                    \n                    "
+  },
+  {
+    "question": "What are the key inputs to the ITIL service value system?",
+    "options": [
+      "Products and services",
+      "Opportunity and demand",
+      "Outcomes and value",
+      "Governance and practices"
+    ],
+    "answer": 1,
+    "topic": "ITIL",
+    "reasoning": "\n                    The ITIL Service value system: \"continually co-creates value with all stakeholders through the use and management of products and services\" but these products and services are created by the service value system, they are not inputs to it.\n                    the correct answer was:\n\n                    Opportunity and demand            \n                    "
+  },
+  {
+    "question": "Which value chain activity provides a good understanding of stakeholder needs?",
+    "options": [
+      "Deliver and support",
+      "Engage",
+      "Design and transition",
+      "Plan"
+    ],
+    "answer": 1,
+    "topic": "ITIL",
+    "reasoning": "\n                    The purpose of the 'engage' value chain activity \"is to provide a good understanding of stakeholder needs, transparency, and continual engagement and good relationships with all stakeholders.\"\n                    the correct answer was:\n\n                    Engage                  \n                    "
   }
 ]
