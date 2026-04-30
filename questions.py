@@ -12,7 +12,7 @@ questions = [
     },
     
     {
-        "questions": "What does CPU stand for?",
+        "question": "What does CPU stand for?",
         "options": ["Central Processing Unit", "Computer Personal Unit",
                     "Central Program Utility", "Core Processing Unit"],
         "answer": 0,    #index of correct option 

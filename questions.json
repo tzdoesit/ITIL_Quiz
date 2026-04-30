@@ -11,7 +11,7 @@
     "topic": "Information Technology"
   },
   {
-    "questions": "What does CPU stand for?",
+    "question": "What does CPU stand for?",
     "options": [
       "Central Processing Unit",
       "Computer Personal Unit",
