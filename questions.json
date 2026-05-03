@@ -90,5 +90,161 @@
     "answer": 1,
     "topic": "ITIL",
     "reasoning": "\n                    The purpose of the 'engage' value chain activity \"is to provide a good understanding of stakeholder needs, transparency, and continual engagement and good relationships with all stakeholders.\"\n                    the correct answer was:\n\n                    Engage                  \n                    "
+  },
+  {
+    "question": "What is the correct order for change control activities?",
+    "options": [
+      "Authorize, assess, deploy",
+      "Assess, deploy, authorize",
+      "Assess, authorize, deploy",
+      "Authorize, deploy, assess"
+    ],
+    "answer": 2,
+    "topic": "ITIL",
+    "reasoning": "\n                    Correct.  \"All changes should be assessed by people who are able to understand the risks and the expected benefits; the changes must then be authorized before they are deployed.\"\n                    the correct answer was:\n\n                    Assess, authorize, deploy\n                    "
+  },
+  {
+    "question": "Identify the missing word in the following sentence.   The purpose of the 'service request management' practice is to support the agreed quality of a service by handling all [?], user-initiated service requests in an effective and user-friendly manner.",
+    "options": [
+      "manual",
+      "low-priority",
+      "pre-defined",
+      "emergency"
+    ],
+    "answer": 2,
+    "topic": "ITIL",
+    "reasoning": "\n                    \"The purpose of the service request management practice is to support the agreed quality of a service by handling all pre-defined, user-initiated service requests in an effective and user-friendly manner.\"\n                    the correct answer was:\n\n                    pre-defined\n                    "
+  },
+  {
+    "question": "Which phase of 'problem management' includes analysing incident trends?",
+    "options": [
+      "Error control",
+      "Problem identification",
+      "Change control",
+      "Problem control"
+    ],
+    "answer": 1,
+    "topic": "ITIL",
+    "reasoning": "\n                    \"Problem identification activities identify and log problems. This includes: Performing trend analysis of incident records\"\n                    the correct answer was:\n\n                    Problem identification\n                    "
+  },
+  {
+    "question": "Which TWO are required for successful continual improvement?    1. A single continual improvement register 2. High level commitment and leadership 3. Including contribution to improvement in staff objectives 4. A wide variety of improvement methods",
+    "options": [
+      "1 and 2",
+      "1 and 4",
+      "3 and 4",
+      "2 and 3"
+    ],
+    "answer": 3,
+    "topic": "ITIL",
+    "reasoning": "\n                    (2) \"The highest levels of the organization need to take responsibility for embedding continual improvement into the way that people think and work. Without their leadership and visible commitment to continual improvement, attitudes, behaviour and culture will not evolve to a point where improvements are considered in everything that is done, at all levels.\" (3) \"To ensure this is more than a good intention, it is wise to include contribution to continual improvement in all job descriptions and every employee\u2019s objectives\".\n                    the correct answer was:\n\n                    2 and 3\n                    "
+  },
+  {
+    "question": "Which guiding principle emphasizes the need to understand the flow of work in progress, identify bottlenecks, and uncover waste?",
+    "options": [
+      "Collaborate and promote visibility",
+      "Think and work holistically",
+      "Keep it simple and practical",
+      "Focus on value"
+    ],
+    "answer": 0,
+    "topic": "ITIL",
+    "reasoning": "\n                    \u2018Collaborate and promote\u2019 visibility states \"Insufficient visibility of work leads to poor decision-making, which in turn impacts the organization\u2019s ability to improve internal capabilities. It will then become difficult to drive improvements as it will not be clear which ones are likely to have the greatest positive impact on results. To avoid this, the organization needs to perform such critical analysis activities as: understanding the flow of work in progress; identifying bottlenecks, as well as excess capacity; and uncovering waste\".\n                    the correct answer was:\n\n                    Collaborate and promote visibility\n                    "
+  },
+  {
+    "question": "Which guiding principle recommends eliminating a process, service or action if it does not provide value or a useful outcome?",
+    "options": [
+      "Collaborate and promote visibility",
+      "Progress iteratively with feedback",
+      "Think and work holistically",
+      "Keep it simple and practical"
+    ],
+    "answer": 3,
+    "topic": "ITIL",
+    "reasoning": "\n                    The guiding principle 'collaborate and promote visibility' recommends involving many people in improvement activities. It is not concerned with eliminating process and services. \"When initiatives involve the right people in the correct roles, efforts benefit from better buy-in, more relevance (because better information is available for decision-making) and increased likelihood of long-term success\".\n                    the correct answer was:\n\n                    Keep it simple and practical\n                    "
+  },
+  {
+    "question": "Identify the missing word in the following sentence.   The purpose of the 'information security management practice' is to [?] the organization's information.",
+    "options": [
+      "protect",
+      "store",
+      "provide",
+      "audit"
+    ],
+    "answer": 0,
+    "topic": "ITIL",
+    "reasoning": "\n                    \"The purpose of the information security management practice is to protect the information needed by the organization to conduct its business. This includes understanding and managing risks to the confidentiality, integrity and availability of information, as well as other aspects of information security such as authentication (ensuring someone is who they claim to be) and non-repudiation (ensuring that someone can\u2019t deny that they took an action).\"\n                    the correct answer was:\n\n                    protect\n                    "
+  },
+  {
+    "question": "Which practice provides support for managing feedback, compliments and complaints from users?",
+    "options": [
+      "Problem management",
+      "Incident management",
+      "Change control",
+      "Service request management"
+    ],
+    "answer": 3,
+    "topic": "ITIL",
+    "reasoning": "\n                    \"The purpose of the service request management practice is to support the agreed quality of a service by handling all pre-defined, user-initiated service requests in an effective and user-friendly manner,\" and \"Each service request may include one or more of the following: ... feedback, compliments, and complaints (for example, complaints about a new interface or compliments to a support team).\"\n                    the correct answer was:\n\n                    Service request management\n                    "
+  },
+  {
+    "question": "Which does the 'supplier management' practice support?",
+    "options": [
+      "Alignment of the organization's services with business needs",
+      "Provision of seamless, quality products and services",
+      "Handling pre-defined, user-initiated service requests",
+      "Capturing demand for incident resolution and service requests"
+    ],
+    "answer": 1,
+    "topic": "ITIL",
+    "reasoning": "\n                    The purpose of the 'supplier management' practice is \"to ensure that the organization\u2019s suppliers and their performances are managed appropriately to support the seamless provision of quality products and services.\"\n                    the correct answer was:\n\n                    Provision of seamless, quality products and services\n                    "
+  },
+  {
+    "question": "How does customer engagement contribute to the 'service level management' practice? 1. It captures information that metrics can be based on 2. It ensures the organization meets defined service levels 3. It defines the workflows for service requests 4. It supports progress discussions",
+    "options": [
+      "1 and 2",
+      "2 and 3",
+      "3 and 4",
+      "1 and 4"
+    ],
+    "answer": 3,
+    "topic": "ITIL",
+    "reasoning": "\n                    (2) Service level management \"ensures the organization meets the defined service levels through the collection, analysis, storage, and reporting of the relevant metrics for the identified services,\" not just through customer engagement.\n                    the correct answer was:\n\n                    1 and 4\n                    "
+  },
+  {
+    "question": "Which practice has a purpose that includes helping the organization to maximize value, control costs and manage risks?",
+    "options": [
+      "Release management",
+      "Service Desk",
+      "IT asset management",
+      "Relationship management"
+    ],
+    "answer": 2,
+    "topic": "ITIL",
+    "reasoning": "\n                    \"The purpose of the relationship management practice is to establish and nurture the links between the organization and its stakeholders at strategic and tactical levels.\"\n                    the correct answer was:\n\n                    IT asset management\n                    "
+  },
+  {
+    "question": "What role do service providers and service consumers have in relation to risk?",
+    "options": [
+      "Consumers should manage the detailed level of risk on behalf of the service provider",
+      "Service providers should manage the detailed level of risk on behalf of the consumer",
+      "Consumers help service providers to achieve outcomes, which reduces service provider risk",
+      ""
+    ],
+    "answer": 1,
+    "topic": "ITIL",
+    "reasoning": "\n                    \"It is the duty of the provider to manage the detailed level of risk on behalf of the consumer\".\n                    the correct answer was:\n\n                    Service providers should manage the detailed level of risk on behalf of the consumer\n                    "
+  },
+  {
+    "question": "Which is a recommendation of the 'continual improvement' practice?",
+    "options": [
+      "All improvements should be managed as multi-phase projects",
+      "Continual improvement' should be isolated from other practices",
+      "External suppliers should be excluded from improvement initiatives",
+      "There should at least be a small team dedicated to leading 'continual improvement' efforts"
+    ],
+    "answer": 1,
+    "topic": "ITIL",
+    "reasoning": "\n\n                    "
   }
 ]
