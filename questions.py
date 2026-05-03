@@ -280,502 +280,522 @@ questions = [
         "answer": 1,
         "topic": "ITIL",
         "reasoning": """
+                    "Different types of improvements may call for different improvement methods. For example, some improvements may be best organized into a multi-phase project, while others may be more appropriate as a single quick effort."
+                    the correct answer was:
+
+                    There should at least be a small team dedicated to leading 'continual improvement' efforts
+                    """
+    },
+     
+    {
+        "question": "Identify the missing word in the following sentence.   The purpose of the 'monitoring and event management' practice is to systematically observe [?] and service components.",
+        "options": [ "services", "users",
+                     "incidents", "problems"],
+        "answer": 0,
+        "topic": "ITIL",
+        "reasoning": """
+                    "The purpose of the monitoring and event management practice is to systematically observe services and service components, and record and report selected changes of state identified as events."
+                    the correct answer was:
+
+                    services
+                    """
+        
+    },
+     
+    {
+        "question": "What term describes an unplanned reduction in the quality of a service?",
+        "options": [ "Incident", "Risk",
+                     "Problem", "Warranty"],
+        "answer": 0,
+        "topic": "ITIL",
+        "reasoning": """
+                    Risk is defined as "a possible event that could cause harm or loss, or make it more difficult to achieve objectives".
+                    the correct answer was:
+
+                    Incident
+                    """
+        
+    },
+     
+    {
+        "question": "Which describes the nature of the guiding principles?",
+        "options": [ "Guiding principles describe the processes that all organizations must adopt", "An organization will select and adopt only one of the seven guiding principles",
+                     "Each guiding principle mandates specific actions and decisions", "Guiding principles can guide an organization in all circumstances"],
+        "answer": 3,
+        "topic": "ITIL",
+        "reasoning": """
+                    A guiding principle is defined as a recommendation that can guide an organization in all circumstances and will guide organizations when adopting service management. They are not described as prescriptive or mandatory.
+                    the correct answer was:
+
+                    Guiding principles can guide an organization in all circumstances
+                    """
+        
+    },
+     
+    {
+        "question": "Why should incidents be prioritized?",
+        "options": [ "To identify which support team the incident should be escalated to", "To help automated matching of incidents to problems or known errors",
+                     "To encourage a high level of collaboration within and between teams", "To ensure that incidents with the highest business impact are resolved first"],
+        "answer": 3,
+        "topic": "ITIL",
+        "reasoning": """
+                    "Incidents are prioritized based on an agreed classification to ensure that incidents with the highest business impact are resolved first."
+                    the correct answer was:
+
+                    To ensure that incidents with the highest business impact are resolved first
+                    """
+        
+    },
+     
+    {
+        "question": "Which practice ensures that accurate and reliable information is available about configuration items and the relationships between them?",
+        "options": [ "Monitoring and event management", "Service configuration management",
+                     "Service desk", "IT asset management"],
+        "answer": 1,
+        "topic": "ITIL",
+        "reasoning": """
+                    "The purpose of the service configuration management practice is to ensure that accurate and reliable information about the configuration of services, and the CIs that support them, is available when and where it is needed. This includes information on how CIs are configured and the relationships between them".
+                    the correct answer was:
+
+                    Service configuration management
+                    """
+        
+    },
+     
+    {
+        "question": "Which value chain activity ensures that people understand how each service contributes to the organization's vision?",
+        "options": [ "Deliver and support", "Engage",
+                     "Improve", "Plan"],
+        "answer": 3,
+        "topic": "ITIL",
+        "reasoning": """
+                    "The purpose of the plan value chain activity is to ensure a shared understanding of the vision, current status, and improvement direction for all four dimensions and all products and services across the organization."
+                    the correct answer was:
+
+                    Plan
+                    """
+        
+    },
+     
+    {
+        "question": "",
+        "options": [ "", "",
+                     "", ""],
+        "answer": ,
+        "topic": "ITIL",
+        "reasoning": """
 
                     """
+        
+    },
+     
+    {
+        "question": "",
+        "options": [ "", "",
+                     "", ""],
+        "answer": ,
+        "topic": "ITIL",
+        "reasoning": """
+
+                    """
+        
+    },
+     
+    {
+        "question": "",
+        "options": [ "", "",
+                     "", ""],
+        "answer": ,
+        "topic": "ITIL",
+        "reasoning": """
+
+                    """
+        
+    },
+     
+    {
+        "question": "",
+        "options": [ "", "",
+                     "", ""],
+        "answer": ,
+        "topic": "ITIL",
+        "reasoning": """
+
+                    """
+        
+    },
+     
+    {
+        "question": "",
+        "options": [ "", "",
+                     "", ""],
+        "answer": ,
+        "topic": "ITIL",
+        "reasoning": """
+
+                    """
+        
+    },
+     
+    {
+        "question": "",
+        "options": [ "", "",
+                     "", ""],
+        "answer": ,
+        "topic": "ITIL",
+        "reasoning": """
+
+                    """
+        
+    },
+     
+    {
+        "question": "",
+        "options": [ "", "",
+                     "", ""],
+        "answer": ,
+        "topic": "ITIL",
+        "reasoning": """
+
+                    """
+        
+    },
+     
+    {
+        "question": "",
+        "options": [ "", "",
+                     "", ""],
+        "answer": ,
+        "topic": "ITIL",
+        "reasoning": """
+
+                    """
+        
+    },
+     
+    {
+        "question": "",
+        "options": [ "", "",
+                     "", ""],
+        "answer": ,
+        "topic": "ITIL",
+        "reasoning": """
+
+                    """
+        
+    },
+     
+    {
+        "question": "",
+        "options": [ "", "",
+                     "", ""],
+        "answer": ,
+        "topic": "ITIL",
+        "reasoning": """
+
+                    """
+        
+    },
+     
+    {
+        "question": "",
+        "options": [ "", "",
+                     "", ""],
+        "answer": ,
+        "topic": "ITIL",
+        "reasoning": """
+
+                    """
+        
+    },
+     
+    {
+        "question": "",
+        "options": [ "", "",
+                     "", ""],
+        "answer": ,
+        "topic": "ITIL",
+        "reasoning": """
+
+                    """
+        
+    },
+     
+    {
+        "question": "",
+        "options": [ "", "",
+                     "", ""],
+        "answer": ,
+        "topic": "ITIL",
+        "reasoning": """
+
+                    """
+        
+    },
+     
+    {
+        "question": "",
+        "options": [ "", "",
+                     "", ""],
+        "answer": ,
+        "topic": "ITIL",
+        "reasoning": """
+
+                    """
+        
+    },
+     
+    {
+        "question": "",
+        "options": [ "", "",
+                     "", ""],
+        "answer": ,
+        "topic": "ITIL",
+        "reasoning": """
+
+                    """
+        
+    },
+     
+    {
+        "question": "",
+        "options": [ "", "",
+                     "", ""],
+        "answer": ,
+        "topic": "ITIL",
+        "reasoning": """
+
+                    """
+        
+    },
+     
+    {
+        "question": "",
+        "options": [ "", "",
+                     "", ""],
+        "answer": ,
+        "topic": "ITIL",
+        "reasoning": """
+
+                    """
+        
+    },
+     
+    {
+        "question": "",
+        "options": [ "", "",
+                     "", ""],
+        "answer": ,
+        "topic": "ITIL",
+        "reasoning": """
+
+                    """
+        
+    },
+     
+    {
+        "question": "",
+        "options": [ "", "",
+                     "", ""],
+        "answer": ,
+        "topic": "ITIL",
+        "reasoning": """
+
+                    """
+        
+    },
+     
+    {
+        "question": "",
+        "options": [ "", "",
+                     "", ""],
+        "answer": ,
+        "topic": "ITIL",
+        "reasoning": """
+
+                    """
+        
+    },
+     
+    {
+        "question": "",
+        "options": [ "", "",
+                     "", ""],
+        "answer": ,
+        "topic": "ITIL",
+        "reasoning": """
+
+                    """
+        
+    },
+     
+    {
+        "question": "",
+        "options": [ "", "",
+                     "", ""],
+        "answer": ,
+        "topic": "ITIL",
+        "reasoning": """
+
+                    """
+        
+    },
+     
+    {
+        "question": "",
+        "options": [ "", "",
+                     "", ""],
+        "answer": ,
+        "topic": "ITIL",
+        "reasoning": """
+
+                    """
+        
+    },
+     
+    {
+        "question": "",
+        "options": [ "", "",
+                     "", ""],
+        "answer": ,
+        "topic": "ITIL",
+        "reasoning": """
+
+                    """
+        
+    },
+     
+    {
+        "question": "",
+        "options": [ "", "",
+                     "", ""],
+        "answer": ,
+        "topic": "ITIL",
+        "reasoning": """
+
+                    """
+        
+    },
+     
+    {
+        "question": "",
+        "options": [ "", "",
+                     "", ""],
+        "answer": ,
+        "topic": "ITIL",
+        "reasoning": """
+
+                    """
+        
+    },
+     
+    {
+        "question": "",
+        "options": [ "", "",
+                     "", ""],
+        "answer": ,
+        "topic": "ITIL",
+        "reasoning": """
+
+                    """
+        
+    },
+     
+    {
+        "question": "",
+        "options": [ "", "",
+                     "", ""],
+        "answer": ,
+        "topic": "ITIL",
+        "reasoning": """
+
+                    """
+        
+    },
+     
+    {
+        "question": "",
+        "options": [ "", "",
+                     "", ""],
+        "answer": ,
+        "topic": "ITIL",
+        "reasoning": """
+
+                    """
+        
+    },
+     
+    {
+        "question": "",
+        "options": [ "", "",
+                     "", ""],
+        "answer": ,
+        "topic": "ITIL",
+        "reasoning": """
+
+                    """
+        
+    },
+     
+    {
+        "question": "",
+        "options": [ "", "",
+                     "", ""],
+        "answer": ,
+        "topic": "ITIL",
+        "reasoning": """
+
+                    """
+        
+    },
+     
+    {
+        "question": "",
+        "options": [ "", "",
+                     "", ""],
+        "answer": ,
+        "topic": "ITIL",
+        "reasoning": """
+
+                    """
+        
+    },
+     
+    {
+        "question": "",
+        "options": [ "", "",
+                     "", ""],
+        "answer": ,
+        "topic": "ITIL",
+        "reasoning": """
+
+                    """
+        
+    },
+     
+    {
+        "question": "",
+        "options": [ "", "",
+                     "", ""],
+        "answer": ,
+        "topic": "ITIL",
+        "reasoning": """
+
+                    """
+        
+    },
+     
+    {
+        "question": "",
+        "options": [ "", "",
+                     "", ""],
+        "answer": ,
+        "topic": "ITIL",
+        "reasoning": """
+
+                    """
+        
     }
-    # },
-     
-    # {
-    #     "question": "",
-    #     "options": [ "", "",
-    #                  "", ""],
-    #     "answer": ,
-    #     "topic": "ITIL",
-    #     "reasoning": """
-
-    #                 """
-        
-    # },
-     
-    # {
-    #     "question": "",
-    #     "options": [ "", "",
-    #                  "", ""],
-    #     "answer": ,
-    #     "topic": "ITIL",
-    #     "reasoning": """
-
-    #                 """
-        
-    # },
-     
-    # {
-    #     "question": "",
-    #     "options": [ "", "",
-    #                  "", ""],
-    #     "answer": ,
-    #     "topic": "ITIL",
-    #     "reasoning": """
-
-    #                 """
-        
-    # },
-     
-    # {
-    #     "question": "",
-    #     "options": [ "", "",
-    #                  "", ""],
-    #     "answer": ,
-    #     "topic": "ITIL",
-    #     "reasoning": """
-
-    #                 """
-        
-    # },
-     
-    # {
-    #     "question": "",
-    #     "options": [ "", "",
-    #                  "", ""],
-    #     "answer": ,
-    #     "topic": "ITIL",
-    #     "reasoning": """
-
-    #                 """
-        
-    # },
-     
-    # {
-    #     "question": "",
-    #     "options": [ "", "",
-    #                  "", ""],
-    #     "answer": ,
-    #     "topic": "ITIL",
-    #     "reasoning": """
-
-    #                 """
-        
-    # },
-     
-    # {
-    #     "question": "",
-    #     "options": [ "", "",
-    #                  "", ""],
-    #     "answer": ,
-    #     "topic": "ITIL",
-    #     "reasoning": """
-
-    #                 """
-        
-    # },
-     
-    # {
-    #     "question": "",
-    #     "options": [ "", "",
-    #                  "", ""],
-    #     "answer": ,
-    #     "topic": "ITIL",
-    #     "reasoning": """
-
-    #                 """
-        
-    # },
-     
-    # {
-    #     "question": "",
-    #     "options": [ "", "",
-    #                  "", ""],
-    #     "answer": ,
-    #     "topic": "ITIL",
-    #     "reasoning": """
-
-    #                 """
-        
-    # },
-     
-    # {
-    #     "question": "",
-    #     "options": [ "", "",
-    #                  "", ""],
-    #     "answer": ,
-    #     "topic": "ITIL",
-    #     "reasoning": """
-
-    #                 """
-        
-    # },
-     
-    # {
-    #     "question": "",
-    #     "options": [ "", "",
-    #                  "", ""],
-    #     "answer": ,
-    #     "topic": "ITIL",
-    #     "reasoning": """
-
-    #                 """
-        
-    # },
-     
-    # {
-    #     "question": "",
-    #     "options": [ "", "",
-    #                  "", ""],
-    #     "answer": ,
-    #     "topic": "ITIL",
-    #     "reasoning": """
-
-    #                 """
-        
-    # },
-     
-    # {
-    #     "question": "",
-    #     "options": [ "", "",
-    #                  "", ""],
-    #     "answer": ,
-    #     "topic": "ITIL",
-    #     "reasoning": """
-
-    #                 """
-        
-    # },
-     
-    # {
-    #     "question": "",
-    #     "options": [ "", "",
-    #                  "", ""],
-    #     "answer": ,
-    #     "topic": "ITIL",
-    #     "reasoning": """
-
-    #                 """
-        
-    # },
-     
-    # {
-    #     "question": "",
-    #     "options": [ "", "",
-    #                  "", ""],
-    #     "answer": ,
-    #     "topic": "ITIL",
-    #     "reasoning": """
-
-    #                 """
-        
-    # },
-     
-    # {
-    #     "question": "",
-    #     "options": [ "", "",
-    #                  "", ""],
-    #     "answer": ,
-    #     "topic": "ITIL",
-    #     "reasoning": """
-
-    #                 """
-        
-    # },
-     
-    # {
-    #     "question": "",
-    #     "options": [ "", "",
-    #                  "", ""],
-    #     "answer": ,
-    #     "topic": "ITIL",
-    #     "reasoning": """
-
-    #                 """
-        
-    # },
-     
-    # {
-    #     "question": "",
-    #     "options": [ "", "",
-    #                  "", ""],
-    #     "answer": ,
-    #     "topic": "ITIL",
-    #     "reasoning": """
-
-    #                 """
-        
-    # },
-     
-    # {
-    #     "question": "",
-    #     "options": [ "", "",
-    #                  "", ""],
-    #     "answer": ,
-    #     "topic": "ITIL",
-    #     "reasoning": """
-
-    #                 """
-        
-    # },
-     
-    # {
-    #     "question": "",
-    #     "options": [ "", "",
-    #                  "", ""],
-    #     "answer": ,
-    #     "topic": "ITIL",
-    #     "reasoning": """
-
-    #                 """
-        
-    # },
-     
-    # {
-    #     "question": "",
-    #     "options": [ "", "",
-    #                  "", ""],
-    #     "answer": ,
-    #     "topic": "ITIL",
-    #     "reasoning": """
-
-    #                 """
-        
-    # },
-     
-    # {
-    #     "question": "",
-    #     "options": [ "", "",
-    #                  "", ""],
-    #     "answer": ,
-    #     "topic": "ITIL",
-    #     "reasoning": """
-
-    #                 """
-        
-    # },
-     
-    # {
-    #     "question": "",
-    #     "options": [ "", "",
-    #                  "", ""],
-    #     "answer": ,
-    #     "topic": "ITIL",
-    #     "reasoning": """
-
-    #                 """
-        
-    # },
-     
-    # {
-    #     "question": "",
-    #     "options": [ "", "",
-    #                  "", ""],
-    #     "answer": ,
-    #     "topic": "ITIL",
-    #     "reasoning": """
-
-    #                 """
-        
-    # },
-     
-    # {
-    #     "question": "",
-    #     "options": [ "", "",
-    #                  "", ""],
-    #     "answer": ,
-    #     "topic": "ITIL",
-    #     "reasoning": """
-
-    #                 """
-        
-    # },
-     
-    # {
-    #     "question": "",
-    #     "options": [ "", "",
-    #                  "", ""],
-    #     "answer": ,
-    #     "topic": "ITIL",
-    #     "reasoning": """
-
-    #                 """
-        
-    # },
-     
-    # {
-    #     "question": "",
-    #     "options": [ "", "",
-    #                  "", ""],
-    #     "answer": ,
-    #     "topic": "ITIL",
-    #     "reasoning": """
-
-    #                 """
-        
-    # },
-     
-    # {
-    #     "question": "",
-    #     "options": [ "", "",
-    #                  "", ""],
-    #     "answer": ,
-    #     "topic": "ITIL",
-    #     "reasoning": """
-
-    #                 """
-        
-    # },
-     
-    # {
-    #     "question": "",
-    #     "options": [ "", "",
-    #                  "", ""],
-    #     "answer": ,
-    #     "topic": "ITIL",
-    #     "reasoning": """
-
-    #                 """
-        
-    # },
-     
-    # {
-    #     "question": "",
-    #     "options": [ "", "",
-    #                  "", ""],
-    #     "answer": ,
-    #     "topic": "ITIL",
-    #     "reasoning": """
-
-    #                 """
-        
-    # },
-     
-    # {
-    #     "question": "",
-    #     "options": [ "", "",
-    #                  "", ""],
-    #     "answer": ,
-    #     "topic": "ITIL",
-    #     "reasoning": """
-
-    #                 """
-        
-    # },
-     
-    # {
-    #     "question": "",
-    #     "options": [ "", "",
-    #                  "", ""],
-    #     "answer": ,
-    #     "topic": "ITIL",
-    #     "reasoning": """
-
-    #                 """
-        
-    # },
-     
-    # {
-    #     "question": "",
-    #     "options": [ "", "",
-    #                  "", ""],
-    #     "answer": ,
-    #     "topic": "ITIL",
-    #     "reasoning": """
-
-    #                 """
-        
-    # },
-     
-    # {
-    #     "question": "",
-    #     "options": [ "", "",
-    #                  "", ""],
-    #     "answer": ,
-    #     "topic": "ITIL",
-    #     "reasoning": """
-
-    #                 """
-        
-    # },
-     
-    # {
-    #     "question": "",
-    #     "options": [ "", "",
-    #                  "", ""],
-    #     "answer": ,
-    #     "topic": "ITIL",
-    #     "reasoning": """
-
-    #                 """
-        
-    # },
-     
-    # {
-    #     "question": "",
-    #     "options": [ "", "",
-    #                  "", ""],
-    #     "answer": ,
-    #     "topic": "ITIL",
-    #     "reasoning": """
-
-    #                 """
-        
-    # },
-     
-    # {
-    #     "question": "",
-    #     "options": [ "", "",
-    #                  "", ""],
-    #     "answer": ,
-    #     "topic": "ITIL",
-    #     "reasoning": """
-
-    #                 """
-        
-    # },
-     
-    # {
-    #     "question": "",
-    #     "options": [ "", "",
-    #                  "", ""],
-    #     "answer": ,
-    #     "topic": "ITIL",
-    #     "reasoning": """
-
-    #                 """
-        
-    # },
-     
-    # {
-    #     "question": "",
-    #     "options": [ "", "",
-    #                  "", ""],
-    #     "answer": ,
-    #     "topic": "ITIL",
-    #     "reasoning": """
-
-    #                 """
-        
-    # },
-     
-    # {
-    #     "question": "",
-    #     "options": [ "", "",
-    #                  "", ""],
-    #     "answer": ,
-    #     "topic": "ITIL",
-    #     "reasoning": """
-
-    #                 """
-        
-    # },
-     
-    # {
-    #     "question": "",
-    #     "options": [ "", "",
-    #                  "", ""],
-    #     "answer": ,
-    #     "topic": "ITIL",
-    #     "reasoning": """
-
-    #                 """
-        
-    # }
 # endregion    
     
 ]

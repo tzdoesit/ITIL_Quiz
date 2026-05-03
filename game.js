@@ -32,7 +32,7 @@ shuffle(testArray);
 function showQuestion() {
     //console.log(questions, current)
     //console.log(questions);
-    console.log(data);
+    //console.log(data);
     const q = questions[current];
     document.getElementById("question-text").textContent = q.question;
     document.getElementById("topic-label").textContent = q.topic;
