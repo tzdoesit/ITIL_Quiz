@@ -245,6 +245,270 @@
     ],
     "answer": 1,
     "topic": "ITIL",
-    "reasoning": "\n\n                    "
+    "reasoning": "\n                    \"Different types of improvements may call for different improvement methods. For example, some improvements may be best organized into a multi-phase project, while others may be more appropriate as a single quick effort.\"\n                    the correct answer was:\n\n                    There should at least be a small team dedicated to leading 'continual improvement' efforts\n                    "
+  },
+  {
+    "question": "Identify the missing word in the following sentence.   The purpose of the 'monitoring and event management' practice is to systematically observe [?] and service components.",
+    "options": [
+      "services",
+      "users",
+      "incidents",
+      "problems"
+    ],
+    "answer": 0,
+    "topic": "ITIL",
+    "reasoning": "\n                    \"The purpose of the monitoring and event management practice is to systematically observe services and service components, and record and report selected changes of state identified as events.\"\n                    the correct answer was:\n\n                    services\n                    "
+  },
+  {
+    "question": "What term describes an unplanned reduction in the quality of a service?",
+    "options": [
+      "Incident",
+      "Risk",
+      "Problem",
+      "Warranty"
+    ],
+    "answer": 0,
+    "topic": "ITIL",
+    "reasoning": "\n                    Risk is defined as \"a possible event that could cause harm or loss, or make it more difficult to achieve objectives\".\n                    the correct answer was:\n\n                    Incident\n                    "
+  },
+  {
+    "question": "Which describes the nature of the guiding principles?",
+    "options": [
+      "Guiding principles describe the processes that all organizations must adopt",
+      "An organization will select and adopt only one of the seven guiding principles",
+      "Each guiding principle mandates specific actions and decisions",
+      "Guiding principles can guide an organization in all circumstances"
+    ],
+    "answer": 3,
+    "topic": "ITIL",
+    "reasoning": "\n                    A guiding principle is defined as a recommendation that can guide an organization in all circumstances and will guide organizations when adopting service management. They are not described as prescriptive or mandatory.\n                    the correct answer was:\n\n                    Guiding principles can guide an organization in all circumstances\n                    "
+  },
+  {
+    "question": "Why should incidents be prioritized?",
+    "options": [
+      "To identify which support team the incident should be escalated to",
+      "To help automated matching of incidents to problems or known errors",
+      "To encourage a high level of collaboration within and between teams",
+      "To ensure that incidents with the highest business impact are resolved first"
+    ],
+    "answer": 3,
+    "topic": "ITIL",
+    "reasoning": "\n                    \"Incidents are prioritized based on an agreed classification to ensure that incidents with the highest business impact are resolved first.\"\n                    the correct answer was:\n\n                    To ensure that incidents with the highest business impact are resolved first\n                    "
+  },
+  {
+    "question": "Which practice ensures that accurate and reliable information is available about configuration items and the relationships between them?",
+    "options": [
+      "Monitoring and event management",
+      "Service configuration management",
+      "Service desk",
+      "IT asset management"
+    ],
+    "answer": 1,
+    "topic": "ITIL",
+    "reasoning": "\n                    \"The purpose of the service configuration management practice is to ensure that accurate and reliable information about the configuration of services, and the CIs that support them, is available when and where it is needed. This includes information on how CIs are configured and the relationships between them\".\n                    the correct answer was:\n\n                    Service configuration management\n                    "
+  },
+  {
+    "question": "Which value chain activity ensures that people understand how each service contributes to the organization's vision?",
+    "options": [
+      "Deliver and support",
+      "Engage",
+      "Improve",
+      "Plan"
+    ],
+    "answer": 3,
+    "topic": "ITIL",
+    "reasoning": "\n                    \"The purpose of the plan value chain activity is to ensure a shared understanding of the vision, current status, and improvement direction for all four dimensions and all products and services across the organization.\"\n                    the correct answer was:\n\n                    Plan\n                    "
+  },
+  {
+    "question": "Which would be supported by the 'service request management' practice?",
+    "options": [
+      "A request from a user for something which is a normal part of service delivery",
+      "A request to authorize a change that could have an effect on a service",
+      "A request to investigate the cause of multiple related incidents",
+      "A request to restore service after a service interruption"
+    ],
+    "answer": 0,
+    "topic": "ITIL",
+    "reasoning": "\n                    \"Service request: A request from a user or a user\u2019s authorized representative that initiates a service action which has been agreed as a normal part of service delivery.\"\n                    the correct answer was:\n\n                    A request from a user for something which is a normal part of service delivery\n                    "
+  },
+  {
+    "question": "Which guiding principle promotes the re-evaluation of initiatives to accommodate any changes in circumstances?",
+    "options": [
+      "Optimize and automate",
+      "Progress iteratively with feedback",
+      "Start where you are",
+      "Think and work holistically"
+    ],
+    "answer": 1,
+    "topic": "ITIL",
+    "reasoning": "\n                    \"A major improvement initiative or programme may be organized into several significant improvement initiatives, and each of these may, in turn, comprise smaller improvement efforts. The overall initiative or programme, as well as its component iterations, must be continually re-evaluated and potentially revised to reflect any changes in circumstances and ensure that the focus on value has not been lost. \"\n                    the correct answer was:\n\n                    Progress iteratively with feedback\n                    "
+  },
+  {
+    "question": "Which is the BEST description of an organization?",
+    "options": [
+      "Any person or group of people that acts as a service consumer",
+      "Any person or group of people that is responsible for what it achieves",
+      "Any private company that acts as a service provider",
+      "Any private company or public body"
+    ],
+    "answer": 1,
+    "topic": "ITIL",
+    "reasoning": "\n                    \"Organization: A person or a group of people that has its own functions with responsibilities, authorities, and relationships to achieve its objectives.\"\n                    the correct answer was:\n\n                    Any person or group of people that is responsible for what it achieves\n                    "
+  },
+  {
+    "question": "Which is a potential benefit of using an IT service management tool to support the 'incident management' practice?",
+    "options": [
+      "It may ensure that the cause of incidents is identified within agreed times",
+      "It may provide automated resolution and closure of complex incidents",
+      "It may ensure that supplier contracts are aligned with the needs of the service provider",
+      "It may provide automated matching of incidents to problems or known errors"
+    ],
+    "answer": 3,
+    "topic": "ITIL",
+    "reasoning": "\n                    \"Modern IT service management tools can provide automated matching of incidents to other incidents, problems or known errors\".\n                    the correct answer was:\n\n                    It may provide automated matching of incidents to problems or known errors\n                    "
+  },
+  {
+    "question": "Which practice is the responsibility of everyone in the organization?",
+    "options": [
+      "Problem management",
+      "Change control",
+      "Continual improvement",
+      "Service level management"
+    ],
+    "answer": 2,
+    "topic": "ITIL",
+    "reasoning": "\n                    \"Continual improvement is everyone\u2019s responsibility\" and \"The commitment to and practice of continual improvement must be embedded into every fibre of the organization\"\n                    the correct answer was:\n\n                    Continual improvement\n                    "
+  },
+  {
+    "question": "What is a purpose of the 'change control' practice?",
+    "options": [
+      "To ensure that accurate and reliable information about the configuration of services is available",
+      "To maximize the number of successful IT changes by ensuring that risks have been properly assessed",
+      "To make new and changed services and features available for use",
+      "To systematically observe services and service components and report selected changes of state"
+    ],
+    "answer": 1,
+    "topic": "ITIL",
+    "reasoning": "\n                    Correct.  \"The purpose of the change control practice is to maximize the number of successful IT changes by ensuring that risks have been properly assessed, authorizing changes to proceed, and managing the change schedule.\"\n                    the correct answer was:\n\n                    To maximize the number of successful IT changes by ensuring that risks have been properly assessed\n                    "
+  },
+  {
+    "question": "What is the purpose of the 'supplier management' practice?",
+    "options": [
+      "To ensure that accurate and reliable information about the configuration of suppliers' services is available when and where it is needed",
+      "To align the organization's practices and services with changing business needs through the ongoing identification and improvement of services",
+      "To ensure that the organization's suppliers and their performance are managed appropriately at strategic and tactical levels through coordinated marketing, selling, and delivery activities",
+      "To ensure that the organization's suppliers and their performance are managed appropriately to support the seamless provision of quality products and services"
+    ],
+    "answer": 3,
+    "topic": "ITIL",
+    "reasoning": "\n                    \"The purpose of the supplier management practice is to ensure that the organization\u2019s suppliers and their performance are managed appropriately to support the seamless provision of quality products and services\".\n                    the correct answer was:\n\n                    To ensure that the organization's suppliers and their performance are managed appropriately to support the seamless provision of quality products and services\n                    "
+  },
+  {
+    "question": "Which practice has the purpose of making new and changed services and features available for use?",
+    "options": [
+      "Service request management",
+      "Change control",
+      "Deployment management",
+      "Release management"
+    ],
+    "answer": 3,
+    "topic": "ITIL",
+    "reasoning": "\n                    \"The purpose of the release management practice is to make new and changed services and features available for use\".\n                    the correct answer was:\n\n                    Release management\n                    "
+  },
+  {
+    "question": "Identify the missing word in the following sentence. A customer is a person who defines the requirements for a service and takes responsibility for the [?] of service consumption.",
+    "options": [
+      "costs",
+      "outcomes",
+      "risks",
+      "outputs"
+    ],
+    "answer": 1,
+    "topic": "ITIL",
+    "reasoning": "\n                    \"Customer: A person who defines the requirements for a service and takes responsibility for the outcomes of service consumption.\"\n                    the correct answer was:\n\n                    outcomes\n                    "
+  },
+  {
+    "question": "What is an output?",
+    "options": [
+      "A result for a stakeholder enabled by a deliverable",
+      "An amount of money spent on an activity",
+      "A potential issue that could impact a service",
+      "A deliverable from an activity"
+    ],
+    "answer": 3,
+    "topic": "ITIL",
+    "reasoning": "\n                    The definition of an output is \"A tangible or intangible deliverable of an activity.\"\n                    the correct answer was:\n\n                    A deliverable from an activity\n                    "
+  },
+  {
+    "question": "Which practice has a purpose to ensure that accurate and reliable information about services is available when and where it is needed?",
+    "options": [
+      "Service level management",
+      "Service desk",
+      "Release management",
+      "Service configuration management"
+    ],
+    "answer": 3,
+    "topic": "ITIL",
+    "reasoning": "\n                    \"The purpose of the service configuration management practice is to ensure that accurate and reliable information about the configuration of services, and the CIs that support them, is available when and where it is needed.\"\n                    the correct answer was:\n\n                    Service configuration management\n                    "
+  },
+  {
+    "question": "What is a problem?",
+    "options": [
+      "A cause or potential cause of one or more incidents",
+      "Any change of state that has significance for the management of a configuration item",
+      "An unplanned reduction in the quality of a service",
+      "An addition or modification that could have an effect on services"
+    ],
+    "answer": 0,
+    "topic": "ITIL",
+    "reasoning": "\n                    A problem is \"a cause, or potential cause, of one or more incidents.\"\n                    the correct answer was:\n\n                    A cause or potential cause of one or more incidents\n                    "
+  },
+  {
+    "question": "Which other practices are MOST likely to be involved in implementing solutions for problems?",
+    "options": [
+      "Service desk and change control",
+      "Incident management and service desk",
+      "Change control and continual improvement",
+      "Continual improvement and incident management"
+    ],
+    "answer": 2,
+    "topic": "ITIL",
+    "reasoning": "\n                    \"Problem management typically initiates resolution via change control\" and \" Solutions can in some cases be treated as improvement opportunities, so they are included in a continual improvement register and use continual improvement techniques to prioritize and manage them.\"\n                    the correct answer was:\n\n                    Change control and continual improvement\n                    "
+  },
+  {
+    "question": "Which practice has a purpose to encourage links between the organization and its stakeholders?",
+    "options": [
+      "Relationship management",
+      "Supplier management",
+      "Continual improvement",
+      "Service level management"
+    ],
+    "answer": 0,
+    "topic": "ITIL",
+    "reasoning": "\n                    This is part of the purpose of 'relationship management'. \"The purpose of the relationship management practice is to establish and nurture the links between the organization and its stakeholders at strategic and tactical levels\".\n                    the correct answer was:\n\n                    Relationship management\n                    "
+  },
+  {
+    "question": "What is the difference between 'change control' and 'organizational change management'?",
+    "options": [
+      "Change control' reviews and authorizes changes, 'Organizational change management' creates and publishes the change schedule",
+      "Change control' manages standard changes and normal changes, 'Organizational change management' manages emergency changes",
+      "Change control' manages changes to products and services, 'Organizational change management' manages the people aspects of change",
+      "Change control' manages changes to infrastructure and applications, 'Organizational change management' manages changes to documentation, processes and suppliers"
+    ],
+    "answer": 2,
+    "topic": "ITIL",
+    "reasoning": "\n                    Both of these are managed as part of the 'change control' practice. \"Change control must balance the need to make beneficial changes that will deliver additional value with the need to protect customers and users from the adverse effect of changes. All changes should be assessed by people who are able to understand the risks and the expected benefits and then authorized before they are deployed\", and \"The change schedule is used to help plan changes, assist in communication, avoid conflicts and assign resources. It can also be used after changes have been deployed to provide information needed for incident management, problem management and improvement planning.\"\n                    the correct answer was:\n\n                    Change control' manages changes to products and services, 'Organizational change management' manages the people aspects of change\n                    "
+  },
+  {
+    "question": "Which statement about change authorization is CORRECT?",
+    "options": [
+      "Standard changes are high risk and should be authorized by the highest level of change authority",
+      "The authorization of normal changes should be expedited to ensure they can be implemented quickly",
+      "Centralizing change authorization to a single person is the most effective means of authorization",
+      "A change authority should be assigned to each type of change and change model"
+    ],
+    "answer": 3,
+    "topic": "ITIL",
+    "reasoning": "\n                    \"It is essential that the correct change authority is assigned to each type of change to ensure that change control is both efficient and effective.\"\n                    the correct answer was:\n\n                    A change authority should be assigned to each type of change and change model\n                    "
   }
 ]

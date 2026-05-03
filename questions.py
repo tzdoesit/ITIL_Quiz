@@ -378,424 +378,472 @@ questions = [
     },
      
     {
-        "question": "",
-        "options": [ "", "",
-                     "", ""],
-        "answer": ,
+        "question": "Which would be supported by the 'service request management' practice?",
+        "options": [ "A request from a user for something which is a normal part of service delivery", "A request to authorize a change that could have an effect on a service",
+                     "A request to investigate the cause of multiple related incidents", "A request to restore service after a service interruption"],
+        "answer": 0,
         "topic": "ITIL",
         "reasoning": """
+                    "Service request: A request from a user or a user’s authorized representative that initiates a service action which has been agreed as a normal part of service delivery."
+                    the correct answer was:
 
+                    A request from a user for something which is a normal part of service delivery
                     """
         
     },
      
     {
-        "question": "",
-        "options": [ "", "",
-                     "", ""],
-        "answer": ,
+        "question": "Which guiding principle promotes the re-evaluation of initiatives to accommodate any changes in circumstances?",
+        "options": [ "Optimize and automate", "Progress iteratively with feedback",
+                     "Start where you are", "Think and work holistically"],
+        "answer": 1,
         "topic": "ITIL",
         "reasoning": """
+                    "A major improvement initiative or programme may be organized into several significant improvement initiatives, and each of these may, in turn, comprise smaller improvement efforts. The overall initiative or programme, as well as its component iterations, must be continually re-evaluated and potentially revised to reflect any changes in circumstances and ensure that the focus on value has not been lost. "
+                    the correct answer was:
 
+                    Progress iteratively with feedback
                     """
         
     },
      
     {
-        "question": "",
-        "options": [ "", "",
-                     "", ""],
-        "answer": ,
+        "question": "Which is the BEST description of an organization?",
+        "options": [ "Any person or group of people that acts as a service consumer", "Any person or group of people that is responsible for what it achieves",
+                     "Any private company that acts as a service provider", "Any private company or public body"],
+        "answer": 1,
         "topic": "ITIL",
         "reasoning": """
+                    "Organization: A person or a group of people that has its own functions with responsibilities, authorities, and relationships to achieve its objectives."
+                    the correct answer was:
 
+                    Any person or group of people that is responsible for what it achieves
                     """
         
     },
      
     {
-        "question": "",
-        "options": [ "", "",
-                     "", ""],
-        "answer": ,
+        "question": "Which is a potential benefit of using an IT service management tool to support the 'incident management' practice?",
+        "options": [ "It may ensure that the cause of incidents is identified within agreed times", "It may provide automated resolution and closure of complex incidents",
+                     "It may ensure that supplier contracts are aligned with the needs of the service provider", "It may provide automated matching of incidents to problems or known errors"],
+        "answer": 3,
         "topic": "ITIL",
         "reasoning": """
+                    "Modern IT service management tools can provide automated matching of incidents to other incidents, problems or known errors".
+                    the correct answer was:
 
+                    It may provide automated matching of incidents to problems or known errors
                     """
         
     },
      
     {
-        "question": "",
-        "options": [ "", "",
-                     "", ""],
-        "answer": ,
+        "question": "Which practice is the responsibility of everyone in the organization?",
+        "options": [ "Problem management", "Change control",
+                     "Continual improvement", "Service level management"],
+        "answer": 2,
         "topic": "ITIL",
         "reasoning": """
+                    "Continual improvement is everyone’s responsibility" and "The commitment to and practice of continual improvement must be embedded into every fibre of the organization"
+                    the correct answer was:
 
+                    Continual improvement
                     """
         
     },
      
     {
-        "question": "",
-        "options": [ "", "",
-                     "", ""],
-        "answer": ,
+        "question": "What is a purpose of the 'change control' practice?",
+        "options": [ "To ensure that accurate and reliable information about the configuration of services is available", "To maximize the number of successful IT changes by ensuring that risks have been properly assessed",
+                     "To make new and changed services and features available for use", "To systematically observe services and service components and report selected changes of state"],
+        "answer": 1,
         "topic": "ITIL",
         "reasoning": """
+                    Correct.  "The purpose of the change control practice is to maximize the number of successful IT changes by ensuring that risks have been properly assessed, authorizing changes to proceed, and managing the change schedule."
+                    the correct answer was:
 
+                    To maximize the number of successful IT changes by ensuring that risks have been properly assessed
                     """
         
     },
      
     {
-        "question": "",
-        "options": [ "", "",
-                     "", ""],
-        "answer": ,
+        "question": "What is the purpose of the 'supplier management' practice?",
+        "options": [ """To ensure that accurate and reliable information about the configuration of suppliers' services is available when and where it is needed""", "To align the organization's practices and services with changing business needs through the ongoing identification and improvement of services",
+                     "To ensure that the organization's suppliers and their performance are managed appropriately at strategic and tactical levels through coordinated marketing, selling, and delivery activities", "To ensure that the organization's suppliers and their performance are managed appropriately to support the seamless provision of quality products and services"],
+        "answer": 3,
         "topic": "ITIL",
         "reasoning": """
+                    "The purpose of the supplier management practice is to ensure that the organization’s suppliers and their performance are managed appropriately to support the seamless provision of quality products and services".
+                    the correct answer was:
 
+                    To ensure that the organization's suppliers and their performance are managed appropriately to support the seamless provision of quality products and services
                     """
         
     },
      
     {
-        "question": "",
-        "options": [ "", "",
-                     "", ""],
-        "answer": ,
+        "question": "Which practice has the purpose of making new and changed services and features available for use?",
+        "options": [ "Service request management", "Change control",
+                     "Deployment management", "Release management"],
+        "answer": 3,
         "topic": "ITIL",
         "reasoning": """
+                    "The purpose of the release management practice is to make new and changed services and features available for use".
+                    the correct answer was:
 
+                    Release management
                     """
         
     },
      
     {
-        "question": "",
-        "options": [ "", "",
-                     "", ""],
-        "answer": ,
+        "question": "Identify the missing word in the following sentence. A customer is a person who defines the requirements for a service and takes responsibility for the [?] of service consumption.",
+        "options": [ "costs", "outcomes",
+                     "risks", "outputs"],
+        "answer": 1,
         "topic": "ITIL",
         "reasoning": """
+                    "Customer: A person who defines the requirements for a service and takes responsibility for the outcomes of service consumption."
+                    the correct answer was:
 
+                    outcomes
                     """
         
     },
      
     {
-        "question": "",
-        "options": [ "", "",
-                     "", ""],
-        "answer": ,
+        "question": "What is an output?",
+        "options": [ "A result for a stakeholder enabled by a deliverable", "An amount of money spent on an activity",
+                     "A potential issue that could impact a service", "A deliverable from an activity"],
+        "answer": 3,
         "topic": "ITIL",
         "reasoning": """
+                    The definition of an output is "A tangible or intangible deliverable of an activity."
+                    the correct answer was:
 
+                    A deliverable from an activity
                     """
         
     },
      
     {
-        "question": "",
-        "options": [ "", "",
-                     "", ""],
-        "answer": ,
+        "question": "Which practice has a purpose to ensure that accurate and reliable information about services is available when and where it is needed?",
+        "options": [ "Service level management", "Service desk",
+                     "Release management", "Service configuration management"],
+        "answer": 3,
         "topic": "ITIL",
         "reasoning": """
+                    "The purpose of the service configuration management practice is to ensure that accurate and reliable information about the configuration of services, and the CIs that support them, is available when and where it is needed."
+                    the correct answer was:
 
+                    Service configuration management
                     """
         
     },
      
     {
-        "question": "",
-        "options": [ "", "",
-                     "", ""],
-        "answer": ,
+        "question": "What is a problem?",
+        "options": [ "A cause or potential cause of one or more incidents", "Any change of state that has significance for the management of a configuration item",
+                     "An unplanned reduction in the quality of a service", "An addition or modification that could have an effect on services"],
+        "answer": 0,
         "topic": "ITIL",
         "reasoning": """
+                    A problem is "a cause, or potential cause, of one or more incidents."
+                    the correct answer was:
 
+                    A cause or potential cause of one or more incidents
                     """
         
     },
      
     {
-        "question": "",
-        "options": [ "", "",
-                     "", ""],
-        "answer": ,
+        "question": "Which other practices are MOST likely to be involved in implementing solutions for problems?",
+        "options": [ "Service desk and change control", "Incident management and service desk",
+                     "Change control and continual improvement", "Continual improvement and incident management"],
+        "answer": 2,
         "topic": "ITIL",
         "reasoning": """
+                    "Problem management typically initiates resolution via change control" and " Solutions can in some cases be treated as improvement opportunities, so they are included in a continual improvement register and use continual improvement techniques to prioritize and manage them."
+                    the correct answer was:
 
+                    Change control and continual improvement
                     """
         
     },
      
     {
-        "question": "",
-        "options": [ "", "",
-                     "", ""],
-        "answer": ,
+        "question": "Which practice has a purpose to encourage links between the organization and its stakeholders?",
+        "options": [ "Relationship management", "Supplier management",
+                     "Continual improvement", "Service level management"],
+        "answer": 0,
         "topic": "ITIL",
         "reasoning": """
+                    This is part of the purpose of 'relationship management'. "The purpose of the relationship management practice is to establish and nurture the links between the organization and its stakeholders at strategic and tactical levels".
+                    the correct answer was:
 
+                    Relationship management
                     """
         
     },
      
     {
-        "question": "",
-        "options": [ "", "",
-                     "", ""],
-        "answer": ,
+        "question": "What is the difference between 'change control' and 'organizational change management'?",
+        "options": [ "Change control' reviews and authorizes changes, 'Organizational change management' creates and publishes the change schedule", "Change control' manages standard changes and normal changes, 'Organizational change management' manages emergency changes",
+                     """Change control' manages changes to products and services, 'Organizational change management' manages the people aspects of change""", """Change control' manages changes to infrastructure and applications, 'Organizational change management' manages changes to documentation, processes and suppliers"""],
+        "answer": 2,
         "topic": "ITIL",
         "reasoning": """
+                    Both of these are managed as part of the 'change control' practice. "Change control must balance the need to make beneficial changes that will deliver additional value with the need to protect customers and users from the adverse effect of changes. All changes should be assessed by people who are able to understand the risks and the expected benefits and then authorized before they are deployed", and "The change schedule is used to help plan changes, assist in communication, avoid conflicts and assign resources. It can also be used after changes have been deployed to provide information needed for incident management, problem management and improvement planning."
+                    the correct answer was:
 
+                    Change control' manages changes to products and services, 'Organizational change management' manages the people aspects of change
                     """
         
     },
      
     {
-        "question": "",
-        "options": [ "", "",
-                     "", ""],
-        "answer": ,
+        "question": "Which statement about change authorization is CORRECT?",
+        "options": [ "Standard changes are high risk and should be authorized by the highest level of change authority", "The authorization of normal changes should be expedited to ensure they can be implemented quickly",
+                     "Centralizing change authorization to a single person is the most effective means of authorization", "A change authority should be assigned to each type of change and change model"],
+        "answer": 3,
         "topic": "ITIL",
         "reasoning": """
+                    "It is essential that the correct change authority is assigned to each type of change to ensure that change control is both efficient and effective."
+                    the correct answer was:
 
-                    """
-        
-    },
-     
-    {
-        "question": "",
-        "options": [ "", "",
-                     "", ""],
-        "answer": ,
-        "topic": "ITIL",
-        "reasoning": """
-
-                    """
-        
-    },
-     
-    {
-        "question": "",
-        "options": [ "", "",
-                     "", ""],
-        "answer": ,
-        "topic": "ITIL",
-        "reasoning": """
-
-                    """
-        
-    },
-     
-    {
-        "question": "",
-        "options": [ "", "",
-                     "", ""],
-        "answer": ,
-        "topic": "ITIL",
-        "reasoning": """
-
-                    """
-        
-    },
-     
-    {
-        "question": "",
-        "options": [ "", "",
-                     "", ""],
-        "answer": ,
-        "topic": "ITIL",
-        "reasoning": """
-
-                    """
-        
-    },
-     
-    {
-        "question": "",
-        "options": [ "", "",
-                     "", ""],
-        "answer": ,
-        "topic": "ITIL",
-        "reasoning": """
-
-                    """
-        
-    },
-     
-    {
-        "question": "",
-        "options": [ "", "",
-                     "", ""],
-        "answer": ,
-        "topic": "ITIL",
-        "reasoning": """
-
-                    """
-        
-    },
-     
-    {
-        "question": "",
-        "options": [ "", "",
-                     "", ""],
-        "answer": ,
-        "topic": "ITIL",
-        "reasoning": """
-
-                    """
-        
-    },
-     
-    {
-        "question": "",
-        "options": [ "", "",
-                     "", ""],
-        "answer": ,
-        "topic": "ITIL",
-        "reasoning": """
-
-                    """
-        
-    },
-     
-    {
-        "question": "",
-        "options": [ "", "",
-                     "", ""],
-        "answer": ,
-        "topic": "ITIL",
-        "reasoning": """
-
-                    """
-        
-    },
-     
-    {
-        "question": "",
-        "options": [ "", "",
-                     "", ""],
-        "answer": ,
-        "topic": "ITIL",
-        "reasoning": """
-
-                    """
-        
-    },
-     
-    {
-        "question": "",
-        "options": [ "", "",
-                     "", ""],
-        "answer": ,
-        "topic": "ITIL",
-        "reasoning": """
-
-                    """
-        
-    },
-     
-    {
-        "question": "",
-        "options": [ "", "",
-                     "", ""],
-        "answer": ,
-        "topic": "ITIL",
-        "reasoning": """
-
-                    """
-        
-    },
-     
-    {
-        "question": "",
-        "options": [ "", "",
-                     "", ""],
-        "answer": ,
-        "topic": "ITIL",
-        "reasoning": """
-
-                    """
-        
-    },
-     
-    {
-        "question": "",
-        "options": [ "", "",
-                     "", ""],
-        "answer": ,
-        "topic": "ITIL",
-        "reasoning": """
-
-                    """
-        
-    },
-     
-    {
-        "question": "",
-        "options": [ "", "",
-                     "", ""],
-        "answer": ,
-        "topic": "ITIL",
-        "reasoning": """
-
-                    """
-        
-    },
-     
-    {
-        "question": "",
-        "options": [ "", "",
-                     "", ""],
-        "answer": ,
-        "topic": "ITIL",
-        "reasoning": """
-
-                    """
-        
-    },
-     
-    {
-        "question": "",
-        "options": [ "", "",
-                     "", ""],
-        "answer": ,
-        "topic": "ITIL",
-        "reasoning": """
-
-                    """
-        
-    },
-     
-    {
-        "question": "",
-        "options": [ "", "",
-                     "", ""],
-        "answer": ,
-        "topic": "ITIL",
-        "reasoning": """
-
-                    """
-        
-    },
-     
-    {
-        "question": "",
-        "options": [ "", "",
-                     "", ""],
-        "answer": ,
-        "topic": "ITIL",
-        "reasoning": """
-
+                    A change authority should be assigned to each type of change and change model
                     """
         
     }
+     
+    # {
+    #     "question": "",
+    #     "options": [ "", "",
+    #                  "", ""],
+    #     "answer": ,
+    #     "topic": "ITIL",
+    #     "reasoning": """
+
+    #                 """
+        
+    # },
+     
+    # {
+    #     "question": "",
+    #     "options": [ "", "",
+    #                  "", ""],
+    #     "answer": ,
+    #     "topic": "ITIL",
+    #     "reasoning": """
+
+    #                 """
+        
+    # },
+     
+    # {
+    #     "question": "",
+    #     "options": [ "", "",
+    #                  "", ""],
+    #     "answer": ,
+    #     "topic": "ITIL",
+    #     "reasoning": """
+
+    #                 """
+        
+    # },
+     
+    # {
+    #     "question": "",
+    #     "options": [ "", "",
+    #                  "", ""],
+    #     "answer": ,
+    #     "topic": "ITIL",
+    #     "reasoning": """
+
+    #                 """
+        
+    # },
+     
+    # {
+    #     "question": "",
+    #     "options": [ "", "",
+    #                  "", ""],
+    #     "answer": ,
+    #     "topic": "ITIL",
+    #     "reasoning": """
+
+    #                 """
+        
+    # },
+     
+    # {
+    #     "question": "",
+    #     "options": [ "", "",
+    #                  "", ""],
+    #     "answer": ,
+    #     "topic": "ITIL",
+    #     "reasoning": """
+
+    #                 """
+        
+    # },
+     
+    # {
+    #     "question": "",
+    #     "options": [ "", "",
+    #                  "", ""],
+    #     "answer": ,
+    #     "topic": "ITIL",
+    #     "reasoning": """
+
+    #                 """
+        
+    # },
+     
+    # {
+    #     "question": "",
+    #     "options": [ "", "",
+    #                  "", ""],
+    #     "answer": ,
+    #     "topic": "ITIL",
+    #     "reasoning": """
+
+    #                 """
+        
+    # },
+     
+    # {
+    #     "question": "",
+    #     "options": [ "", "",
+    #                  "", ""],
+    #     "answer": ,
+    #     "topic": "ITIL",
+    #     "reasoning": """
+
+    #                 """
+        
+    # },
+     
+    # {
+    #     "question": "",
+    #     "options": [ "", "",
+    #                  "", ""],
+    #     "answer": ,
+    #     "topic": "ITIL",
+    #     "reasoning": """
+
+    #                 """
+        
+    # },
+     
+    # {
+    #     "question": "",
+    #     "options": [ "", "",
+    #                  "", ""],
+    #     "answer": ,
+    #     "topic": "ITIL",
+    #     "reasoning": """
+
+    #                 """
+        
+    # },
+     
+    # {
+    #     "question": "",
+    #     "options": [ "", "",
+    #                  "", ""],
+    #     "answer": ,
+    #     "topic": "ITIL",
+    #     "reasoning": """
+
+    #                 """
+        
+    # },
+     
+    # {
+    #     "question": "",
+    #     "options": [ "", "",
+    #                  "", ""],
+    #     "answer": ,
+    #     "topic": "ITIL",
+    #     "reasoning": """
+
+    #                 """
+        
+    # },
+     
+    # {
+    #     "question": "",
+    #     "options": [ "", "",
+    #                  "", ""],
+    #     "answer": ,
+    #     "topic": "ITIL",
+    #     "reasoning": """
+
+    #                 """
+        
+    # },
+     
+    # {
+    #     "question": "",
+    #     "options": [ "", "",
+    #                  "", ""],
+    #     "answer": ,
+    #     "topic": "ITIL",
+    #     "reasoning": """
+
+    #                 """
+        
+    # },
+     
+    # {
+    #     "question": "",
+    #     "options": [ "", "",
+    #                  "", ""],
+    #     "answer": ,
+    #     "topic": "ITIL",
+    #     "reasoning": """
+
+    #                 """
+        
+    # },
+     
+    # {
+    #     "question": "",
+    #     "options": [ "", "",
+    #                  "", ""],
+    #     "answer": ,
+    #     "topic": "ITIL",
+    #     "reasoning": """
+
+    #                 """
+        
+    # },
+     
+    # {
+    #     "question": "",
+    #     "options": [ "", "",
+    #                  "", ""],
+    #     "answer": ,
+    #     "topic": "ITIL",
+    #     "reasoning": """
+
+    #                 """
+        
+    # },
+     
+    # {
+    #     "question": "",
+    #     "options": [ "", "",
+    #                  "", ""],
+    #     "answer": ,
+    #     "topic": "ITIL",
+    #     "reasoning": """
+
+    #                 """
+        
+    # }
 # endregion    
     
 ]
